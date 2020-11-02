@@ -1,1 +1,11 @@
-segs
+{
+  "description": "is-a-dev domain omfg so hot",
+  "repo": "https://github.com/Julie420",
+  "owner": {
+    "username": "Julie420",
+    "email": "peithocontact@gmail.com"
+  },
+  "record": {
+    "CNAME": "julie420.github.io"
+  }
+}
